@@ -1,4 +1,4 @@
-# RISCV--Pipeline-
+# RISCV-Pipeline
 RISC-V Pipeline Simulator
 Overview
 
